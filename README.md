@@ -179,7 +179,8 @@ The application is deployed on **Streamlit Community Cloud**.
 - **Joblib** - Model serialization
 
 ## ✎ Author
-
+Rahul Bhave
+## Developed for 
 **M.Tech (AIML/DSE) - Machine Learning Assignment 2**  
 BITS Pilani - Work Integrated Learning Programmes Division
 
